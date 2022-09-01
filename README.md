@@ -28,4 +28,4 @@
 <br>
 <p style="display:inline">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshun-01&show_icons=true&locale=en" alt="akshun-01" /></p>
 
-<p style="display:inline"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akshun-01&" alt="akshun-01" /></p>
+<!-- <p style="display:inline"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akshun-01&" alt="akshun-01" /></p> -->
