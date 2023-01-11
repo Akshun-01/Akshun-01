@@ -34,7 +34,7 @@ I am a Full Stack MERN Developer, a Competitive Programmer and a UI/UX enthusias
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    </a> 
-   <a href="" target="_blank" rel="noreferrer">
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
    </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
