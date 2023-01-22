@@ -17,7 +17,9 @@
 ### <img src="https://media.giphy.com/media/fDCH4QFi73SEQqapBp/giphy.gif" width="40px"> About Me :
 I am a Full Stack MERN Developer, a Competitive Programmer and a UI/UX enthusiast. <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50">
 
-- ⚛️ : I am working as a Web Developer at [Pixonoids](https://github.com/pixonoids) creating something new and fun with the team.
+- 🐧 : I am an executive member at [CSEC](https://github.com/CSEC-NITH)
+- 
+- ⚛️ : I am working as a Web Developer at [Pixonoids](https://github.com/pixonoids) and [Team .EXE](https://github.com/Teamexe) creating something new and fun with the team.
 
 - 👨‍💻 : U can see my CP journey at [Codeforces](https://codeforces.com/profile/smart_apple).
 
